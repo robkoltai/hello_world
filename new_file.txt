@@ -1,0 +1,12 @@
+Todo
+
+
+Design spec:
+
+Workspace 
+- Uzenetek loggolasa, agent levelet kuld es nem pedig adatbazisba ir
+
+Felhasznalo management OK
+
+Szerver management
+
